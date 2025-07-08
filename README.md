@@ -43,4 +43,4 @@ You’ll understand:
 
 ---
 
-✅ Perfect beginner ML project for portfolio.
+✅ Perfect beginner ML project.
